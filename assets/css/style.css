@@ -1,10 +1,4 @@
-/**
-* Template Name: iPortfolio
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 /*--------------------------------------------------------------
 # General
@@ -362,21 +356,21 @@ h6 {
 .btn-resume .button a, 
 .btn-resume .buttn a{
  
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 500;
  
 }
 .nav-menu * {
-  font-size: 25px;
+  font-size: 20px;
   
 }
-.section-title p,
+/*.section-title p,
 .fst-italic,
 .about .content p:last-child{
   font-weight: 600;
   font-size: 25px;
  
-}
+}*/
 }
 
 @media (max-width: 960px) {
@@ -393,7 +387,7 @@ h6 {
     
 }
 
-li span,
+/*li span,
 .about .content ul strong,
 .bi-chevron-right::before{
   font-size: 25px;
@@ -401,7 +395,7 @@ li span,
  .services .description {
   color: grey;
   font-size: 20px;
-}
+}*/
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
