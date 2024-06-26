@@ -466,7 +466,7 @@ h6 {
 .btn-resume .button {
   margin-left: -150px;
 }
-.section-title p,
+/*.section-title p,
 .fst-italic,
 .about .content p:last-child{
   font-weight: 600;
@@ -476,7 +476,7 @@ h6 {
  li i, li strong,
  li span{
   font-size: 17px;
- }
+ }*/
 }
 @media (max-width: 480px) {
   
