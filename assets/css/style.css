@@ -479,9 +479,12 @@ h6 {
  }*/
 }
 @media (max-width: 480px) {
-  
+  #hero:before {
+    background: transparent;
+   
+}
   .btn-resume {
-    margin-left: 140px;
+    margin-left: 200px;
   
 }
  .btn-resume .button {
